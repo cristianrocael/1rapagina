@@ -1,0 +1,72 @@
+body{
+	background: url("fondo.jpg")fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	}
+#par1{
+	text-align: center;
+}
+#portada{
+	text-align: center;
+	color:white;
+  	font-weight:bold;
+  	font-size:60px;
+  	text-shadow: 0 1px 0 #ccc, 
+  	0 0px 0 #bbb,
+  	0 4px 0 #b9b9b9,
+  	0 6px 1px rgba(0,0,0,.1),
+  	0 0 5px rgba(0,0,0,.1),
+  	0 100px 30px rgba(0,0,0,.3),
+  	0 3px 5px rgba(0,4000,0,.2),
+  	0 5px 1000px rgba(0,500,600,.25),
+  	0 10px 10px rgba(0,2000,0,.2),
+  	0 20px 20px rgba(0,3000,0,.15);
+}
+#descri{
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+#par2{
+	text-align: center;
+}
+#inter{
+	border:2px solid white;
+	text-align: center;
+}
+#redi{
+	font-size: 15px;
+	color: white;
+}
+#ima1{
+	width: 450px;
+	height: 350px;
+}
+#ima2{
+	width: 450px;
+	height: 350px;
+}
+#tex1{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+}
+#tex2{
+	font-size: 15px;
+	color: white;
+	text-align: center;
+}
+#noti3{
+	text-align: center;
+	color:white;
+	font-size: 15px;
+}
+#ima3{
+	width: 650px;
+	height: 450px;
+}
+#tabla{
+	text-align: center;s
+}
